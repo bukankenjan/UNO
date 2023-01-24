@@ -1,5 +1,5 @@
 {
-    "token": "token_here",
+    "token": "5698296189:AAEiiQo3OlZWqYvPL9WBACqdI8VYVLBIgwQ",
     "admin_list": [0],
     "open_lobby": true,
     "enable_translations": false,
@@ -8,5 +8,5 @@
     "waiting_time": 120,
     "time_removal_after_skip": 20,
     "min_fast_turn_time": 15,
-    "min_players": 2
+    "min_players": 1
 }
